@@ -41,3 +41,4 @@ If we meet some day, and you think this stuff is worth it,
 you can buy me a beer in return.
 ===================================================================
 ```
+[![View LINCOEFFS: Matrix coefficients of symbolic linear equations on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/127604-lincoeffs-matrix-coefficients-of-symbolic-linear-equations)
