@@ -5,7 +5,7 @@ This function extracts the coefficient matrix and the column vector
 containing the non-homogeneous terms of a system of linear equations.
 
 ## Syntax
-> `[A,b] = lincoeffs(equations,variables)`
+> `[A,b] = lincoeffs(equations,variables)`,
 where `equations` is a column vector of symbolic equations
 containing left and right sides separated by the `==` operator,
 and `variables` is a column vector containing symbolic variables.
