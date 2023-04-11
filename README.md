@@ -1,17 +1,16 @@
 # lincoeffs
 MATLAB code to extract the coefficients of symbolic linear equations.
 
-LINCOEFFS - Coefficients of symbolic linear equations.
-   This function extracts the coefficient matrix and the column vector
-   containing the non-homogeneous terms of a system of linear equations.
+This function extracts the coefficient matrix and the column vector
+containing the non-homogeneous terms of a system of linear equations.
 
 ## Syntax
 > `[A,b] = LINCOEFFS(equations,variables)`
-where "equations" is a column vector of symbolic equations
+where `equations` is a column vector of symbolic equations
 containing left and right sides separated by the == operator,
-and "variables" is a column vector containing symbolic variables.
+and `variables` is a column vector containing symbolic variables.
 The output arguments, A and b, allow us to rewrite the equations
-in the matrix form A*x=b.
+in the matrix form A*x==b.
 
 ## Examples
 ```matlab
