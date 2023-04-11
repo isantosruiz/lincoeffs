@@ -10,7 +10,7 @@ where `equations` is a column vector of symbolic equations
 containing left and right sides separated by the == operator,
 and `variables` is a column vector containing symbolic variables.
 The output arguments, `A` and `b`, allow us to rewrite the equations
-in the matrix form `A x == b`.
+in the matrix form `Ax==b`.
 
 ## Examples
 ```matlab
